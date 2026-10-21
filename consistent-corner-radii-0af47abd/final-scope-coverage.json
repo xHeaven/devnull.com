@@ -1,0 +1,87 @@
+{
+  "head": "0af47abd63316d4c66ad6d5c0e6dce02c4ab2df9",
+  "originalCornerHunks": 73,
+  "originalMap": "captures/coverage-map.json",
+  "laterScopes": [
+    {
+      "scope": "Pin sizing",
+      "implementationCommit": "4a71bfca",
+      "pairs": "pin-width/pairs.json",
+      "sourceEquivalentAtFinalHead": true,
+      "sha256": {
+        "resources/js/components/pin-commit-button.tsx": "0938098ae80adaa671df64203af2d89abb0f22f80d1e622908743f9eae3a6170"
+      }
+    },
+    {
+      "scope": "Reaction exit",
+      "implementationCommit": "a5ea7cbb",
+      "pairs": "reaction-flash/pairs.json",
+      "sourceEquivalentAtFinalHead": true,
+      "sha256": {
+        "resources/js/components/chat/message-reactions.tsx": "6e1c397c0a1029aff851f5ec5bf961cc2c4a4e4fd6e95b352641a60d5528bc81"
+      }
+    },
+    {
+      "scope": "Unread caps",
+      "implementationCommit": "6783a3a6",
+      "pairs": "remotes-counts/pairs.json",
+      "sourceEquivalentAtFinalHead": true,
+      "sha256": {
+        "resources/js/components/chat/chat-dock.tsx": "f99036bde775f2b633e51bf408db1fcc228409f580523728e103dd654ebb8a85",
+        "resources/js/components/chat/conversation-list.tsx": "639bf13e36ca2335a87dd19d2207e1e0c2460fddcefa1ed341d502d5c80b83b3",
+        "resources/js/components/chat/inbox-panel.tsx": "f497c4fd6073211cabe9ae7750c54aa990d9ac36f371fd43c46b4c449594244c"
+      }
+    },
+    {
+      "scope": "Notification motion",
+      "implementationCommit": "99395d6b",
+      "pairs": "notification-layout/pairs.json",
+      "sourceEquivalentAtFinalHead": true,
+      "sha256": {
+        "resources/js/components/commit-body.tsx": "cc3d73f23af4332881fefeeb90ca8f1dcb52276fe5493644e5bd65f88d35bb9d",
+        "resources/js/lib/nav-collapse.ts": "c5aa3b86ecd3321c1dba4553f2b308836e054eb208550e4fb40f983b688e238c"
+      }
+    },
+    {
+      "scope": "Notification filters: centered desktop grid, persistent mobile menu and selected-state summary",
+      "implementationCommit": "0af47abd",
+      "pairs": "notification-more/pairs.json",
+      "sourceEquivalentAtFinalHead": true,
+      "sha256": {
+        "resources/js/pages/notification/index.tsx": "27729204ff300938bd31c4cd9f884f6d238cd88918edecf3b6648dd8d258770a",
+        "resources/js/components/notification-filters.tsx": "fd1d182d1e1fc8491bc0580036d2aea0f867d48288c2025f423892e31d2d5983"
+      },
+      "implementationCommits": [
+        "1f2519dd",
+        "34f12c21",
+        "0af47abd"
+      ],
+      "latestColorScope": "More active if any additional category enabled; menu items keep neutral checkmark selection",
+      "additionalPairs": "active-more/pairs.json",
+      "latestReport": "active-more/REVIEW.md"
+    },
+    {
+      "scope": "Remote help",
+      "implementationCommit": "3190960c",
+      "pairs": "remote-settings-help/pairs.json",
+      "sourceEquivalentAtFinalHead": true,
+      "sha256": {
+        "resources/js/components/chat/remote-settings-menu.tsx": "85b93da6fb3a66485342319d9d709eedd6386e022b5752e5e19d561d93366cdb"
+      }
+    }
+  ],
+  "profileOverviewRefresh": "captures/overview-refresh-review.json",
+  "nativeFollowup": "ios-followup/REVIEW.md",
+  "cancelledScope": {
+    "scope": "Composer focus highlight",
+    "revertCommit": "c28a014b",
+    "evidence": "composer-removal-verification.json",
+    "originalCornerScopePreserved": true,
+    "focusMediaExcluded": true
+  },
+  "publicationRefresh": [
+    "publication-refresh/REVIEW.md",
+    "stale-chat-audit/REPORT.md",
+    "active-more/REVIEW.md"
+  ]
+}

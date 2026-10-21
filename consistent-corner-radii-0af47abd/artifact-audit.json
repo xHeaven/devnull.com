@@ -1,0 +1,2027 @@
+{
+  "commit": "0af47abd63316d4c66ad6d5c0e6dce02c4ab2df9",
+  "groups": [
+    "captures",
+    "overlays",
+    "chat-gaps",
+    "control-gaps",
+    "reaction-flash",
+    "remotes-counts",
+    "notification-layout",
+    "remote-settings-help",
+    "notification-more",
+    "active-more"
+  ],
+  "expectedGroups": [
+    "captures",
+    "overlays",
+    "chat-gaps",
+    "control-gaps",
+    "reaction-flash",
+    "remotes-counts",
+    "notification-layout",
+    "remote-settings-help",
+    "notification-more",
+    "active-more"
+  ],
+  "imagePairs": 361,
+  "videoPairs": 172,
+  "uniqueImages": 702,
+  "uniqueVideos": 264,
+  "uniqueVideoPairs": 132,
+  "uniqueImagePairs": 351,
+  "unavailable": 37,
+  "issues": [],
+  "shortClipsForHumanReview": [
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/dropdown-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/logo-context-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/status-explanation-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/status-explanation-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/logo-context-menu-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/logo-context-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 3.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/after/remote-settings-help-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/after/remote-settings-help-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/before/remote-settings-help-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/before/remote-settings-help-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.32
+    }
+  ],
+  "videoMetadata": [
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/more-color-flow-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/more-color-flow-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/more-color-flow-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/more-color-flow-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/notification-arrival-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/notification-arrival-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/notification-moderation-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/notification-moderation-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/notification-more-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/active-more/notification-more-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.52
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-composer-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-dock-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-dock-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-dock-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-dock-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-guest-profile-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-hovercard-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-hovercard-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-hovercard-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-hovercard-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-image-viewer-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.16
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.4
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.4
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-live-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-mobile-navigation-changelog-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-mobile-navigation-changelog-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-mobile-navigation-changelog-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-mobile-navigation-changelog-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-org-members-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 11.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-profile-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 12.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-remotes-reactions-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-desktop-dark-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-desktop-dark-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-desktop-light-after.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-desktop-light-before.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-mobile-dark-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-mobile-dark-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-mobile-light-after.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/captures/paired-search-mobile-light-before.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.36
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-dock-count-flow-desktop-dark-verified.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-dock-count-flow-desktop-light-verified.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-inbox-clear-flow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-inbox-clear-flow-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.4
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-inbox-clear-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-inbox-clear-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-reply-and-unseen-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-reply-and-unseen-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 11.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-reply-and-unseen-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/after-reply-and-unseen-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-dock-count-flow-desktop-dark-verified.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-dock-count-flow-desktop-light-verified.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-header-controls-flow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-header-controls-flow-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-header-controls-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-header-controls-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-inbox-clear-flow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.4
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-inbox-clear-flow-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-inbox-clear-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-inbox-clear-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-reply-and-unseen-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-reply-and-unseen-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 12.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-reply-and-unseen-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/chat-gaps/before-reply-and-unseen-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.36
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.36
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/issue-suggestion-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/log-arrival-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-arrival-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-arrival-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-arrival-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-arrival-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-moderation-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-moderation-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-moderation-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/notification-moderation-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/search-page-clear-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 7.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/control-gaps/thread-position-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-layout/final-grid/notification-sidebar-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.4
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-layout/final-grid/notification-sidebar-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-layout/final-grid/notification-sidebar-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-layout/final-grid/notification-sidebar-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-more/notification-more-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.52
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-more/notification-more-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-more/notification-more-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-more/notification-more-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-more/notification-more-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/notification-more/notification-more-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/achievements-overflow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/achievements-overflow-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/achievements-overflow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/achievements-overflow-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/dropdown-menu-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/dropdown-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/dropdown-menu-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/dropdown-menu-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/logo-context-menu-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/logo-context-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/org-selection-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/org-selection-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/org-selection-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.16
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/org-selection-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/schedule-popup-select-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/schedule-popup-select-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/schedule-popup-select-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/schedule-popup-select-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/share-history-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.36
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/share-history-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/share-history-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/share-history-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/status-explanation-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/status-explanation-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/status-explanation-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-after/status-explanation-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.96
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/achievements-overflow-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/dropdown-menu-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/dropdown-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/dropdown-menu-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/dropdown-menu-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 5.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/logo-context-menu-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/logo-context-menu-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/org-selection-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/org-selection-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 8.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/org-selection-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/org-selection-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/schedule-popup-select-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.52
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/schedule-popup-select-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/schedule-popup-select-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 11.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/schedule-popup-select-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/share-history-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/share-history-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/share-history-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/share-history-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 10.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-desktop.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 4.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 3.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/overlays/videos-before/status-explanation-mobile.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-after-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-after-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.16
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-before-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-before-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.08
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-before-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 9.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/pin-width/pin-flow-before-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 8.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/publication-refresh/notification-arrival-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/publication-refresh/notification-arrival-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/publication-refresh/notification-moderation-after-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 7.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/publication-refresh/notification-moderation-after-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.84
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/after/reaction-selection-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.64
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/after/reaction-selection-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/before/reaction-selection-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.52
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/before/reaction-selection-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 6.72
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/after/reaction-paths-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 22.56
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/after/reaction-paths-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 27.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/after/reaction-selection-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/after/reaction-selection-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/before/reaction-paths-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 21.52
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/before/reaction-paths-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 26.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/before/reaction-selection-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/reaction-flash/presentation/before/reaction-selection-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/after/remote-settings-help-flow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/after/remote-settings-help-flow-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 5.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/after/remote-settings-help-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/after/remote-settings-help-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.28
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/before/remote-settings-help-flow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/before/remote-settings-help-flow-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 6.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/before/remote-settings-help-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remote-settings-help/before/remote-settings-help-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 4.32
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-dock-list-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 12.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-dock-list-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.0
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-dock-selected-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 12.68
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-dock-selected-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 12.48
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-remotes-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.6
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-remotes-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.52
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-remotes-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.4
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-after/boundary-remotes-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 14.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-dock-list-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.12
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-dock-list-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 12.8
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-dock-selected-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-dock-selected-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 12.76
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-remotes-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.44
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-remotes-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 13.36
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-remotes-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.2
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/remotes-counts/videos-before/boundary-remotes-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.24
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/stale-chat-audit/after-header/after-header-controls-flow-desktop-dark.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 10.04
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/stale-chat-audit/after-header/after-header-controls-flow-desktop-light.mp4",
+      "width": 1280,
+      "height": 800,
+      "codec": "h264",
+      "duration": 9.92
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/stale-chat-audit/after-header/after-header-controls-flow-mobile-dark.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.88
+    },
+    {
+      "file": "/tmp/pr-media/consistent-corner-radii/stale-chat-audit/after-header/after-header-controls-flow-mobile-light.mp4",
+      "width": 390,
+      "height": 844,
+      "codec": "h264",
+      "duration": 13.68
+    }
+  ]
+}
